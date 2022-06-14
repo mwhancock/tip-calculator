@@ -1,0 +1,23 @@
+body{
+  background-color: hsl(185, 41%, 84%);
+  text-align: center;
+}
+
+h1{
+  padding: 5rem 0 1.5rem;
+}
+
+
+.grid-container{
+  background-color: white;
+  border-radius: 15px;
+  display: grid;
+  max-width: 50%;
+  margin: auto;
+  padding: 1rem;
+  position: relative;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
